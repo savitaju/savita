@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "59499f62",
+   "id": "fc7eb6ed",
    "metadata": {},
    "outputs": [
     {
@@ -24,7 +24,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "2ba37880",
+   "id": "91a796d3",
    "metadata": {},
    "outputs": [
     {
@@ -44,8 +44,29 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 4,
+   "id": "66cd5ae2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Result: 15\n"
+     ]
+    }
+   ],
+   "source": [
+    "def mul(a,b):\n",
+    "    return a*b\n",
+    "result=mul(5,3)\n",
+    "print(\"Result:\",result)"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "60e04e2f",
+   "id": "8ff59238",
    "metadata": {},
    "outputs": [],
    "source": []
